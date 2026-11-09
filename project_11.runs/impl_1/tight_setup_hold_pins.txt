@@ -1,0 +1,15 @@
++======================+======================+================================+
+| Launch Setup Clock   | Launch Hold Clock    | Pin                            |
++======================+======================+================================+
+| clk_out1_clk_wiz_1_1 | clk_out1_clk_wiz_1_1 | vgaGreen_reg[2]_lopt_replica/D |
+| clk_out1_clk_wiz_1_1 | clk_out1_clk_wiz_1_1 | vgaRed_reg[3]_lopt_replica_2/D |
+| clk_out1_clk_wiz_1_1 | clk_out1_clk_wiz_1_1 | vgaRed_reg[3]_lopt_replica/D   |
+| clk_out1_clk_wiz_1_1 | clk_out1_clk_wiz_1_1 | vgaRed_reg[3]_lopt_replica_3/D |
+| clk_out2_clk_wiz_1_1 | clk_out1_clk_wiz_1_1 | Vsync_reg/D                    |
+| clk_out2_clk_wiz_1_1 | clk_out1_clk_wiz_1_1 | u_sync/vc_reg[0]/R             |
+| clk_out2_clk_wiz_1_1 | clk_out1_clk_wiz_1_1 | u_sync/vc_reg[1]/R             |
+| clk_out2_clk_wiz_1_1 | clk_out1_clk_wiz_1_1 | u_sync/vc_reg[3]/R             |
+| clk_out2_clk_wiz_1_1 | clk_out1_clk_wiz_1_1 | u_sync/vc_reg[4]/R             |
+| clk_out2_clk_wiz_1_1 | clk_out1_clk_wiz_1_1 | u_sync/vc_reg[5]/R             |
+| clk_out2_clk_wiz_1_1 | clk_out1_clk_wiz_1_1 | u_sync/vc_reg[6]/R             |
++----------------------+----------------------+--------------------------------+
